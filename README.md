@@ -4,8 +4,8 @@
 <br>
 后期会做一个后台管理系统来完善该项，欢迎收藏。
 <br>
-个人博客：https://blog.csdn.net/ITBigGod 有很很多系统源码教程哟。
+个人博客：https://blog.csdn.net/ITBigGod   
+有很很多系统源码教程哟。
 <br>
 个人网站效果如图：
-
-![image](https://github.com/Zoutao6/Zoutao6.github.io/blob/master/showpic.png)
+![test](https://github.com/Zoutao6/Zoutao6.github.io/blob/master/showpic.png)
