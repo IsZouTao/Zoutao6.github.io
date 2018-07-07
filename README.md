@@ -7,4 +7,4 @@
 有很很多系统源码教程哟。
 <br>
 个人网站效果如图：
-![](https://github.com/Zoutao6/Zoutao6.github.io/blob/master/showpic.png)
+![效果图](https://github.com/Zoutao6/Zoutao6.github.io/blob/master/showpic.png)
