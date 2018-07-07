@@ -1,4 +1,3 @@
-#zoutao个人网站
 
 <h2>搭建了一个邹涛个人简介网站，访问地址:https://www.zoutao.info </h2>
 <br>
@@ -8,4 +7,4 @@
 有很很多系统源码教程哟。
 <br>
 个人网站效果如图：
-![test](https://github.com/Zoutao6/Zoutao6.github.io/blob/master/showpic.png)
+![](https://github.com/Zoutao6/Zoutao6.github.io/blob/master/showpic.png)
